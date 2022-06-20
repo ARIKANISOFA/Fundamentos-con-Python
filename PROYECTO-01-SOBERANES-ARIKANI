@@ -1,19 +1,11 @@
 #Al ejecutar el programa, solicitar al usuario sus datos de acceso (nombre de
-
 #usuario y contraseña) y permitir visualizar el reporte siempre que los datos sean
-
 #correctos.
-
 #En caso de que los datos ingresados sean incorrectos, mostrar las siguientes
-
 #opciones:
-
 #○ Intentar nuevamente.
-
 #○ “Añadir un nuevo usuario”.
-
 #● Definir dentro del código al menos 4 usuarios diferentes. Respetando el
-
 #máximo de sólo dos usuarios-administradores.
 from lifestore_file import *
 from datetime import date, time, datetime
